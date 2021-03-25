@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "server": "nodemon server/server",
     "test": "jest --env node --detectOpenHandles"
   },
   "author": "Joao Rosso",
